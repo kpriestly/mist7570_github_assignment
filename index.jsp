@@ -324,10 +324,16 @@
 			<td>B</td>
 		</tr>
 		<tr>
+<<<<<<< HEAD
 			<td>Karen</td>
 			<td>P</td>
 		</tr>
 		
+=======
+			<td>Alex</td>
+			<td>A</td>
+		</tr>
+>>>>>>> bf79de4c2da71b4945952b51f33b14b4581e8971
 	</table>
 </body>
 </html>
